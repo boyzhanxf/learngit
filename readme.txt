@@ -18,3 +18,5 @@ Git is free software.
 Hello! My Name is Git!!!
 
 Append GPL,English.....
+
+Git has a mutable index called stage.
