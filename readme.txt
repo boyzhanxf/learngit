@@ -20,3 +20,5 @@ Hello! My Name is Git!!!
 Append GPL,English.....
 
 Git has a mutable index called stage.
+
+Git tracks changes of files.
